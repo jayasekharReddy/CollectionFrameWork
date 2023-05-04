@@ -71,7 +71,7 @@ public class CreateHasMap {
         }
 
         numberMapping.forEach((K,V) ->{
-            System.out.println("key----> : " + K + "  value--> : " +V);
+            System.out.println("key----> :  " + K + "  value--> : " +V);
 
         });
 

@@ -21,7 +21,6 @@ public class hasMapImpl {
 
         System.out.println("newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
 
-        System.out.println("newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
 
     }
 }
