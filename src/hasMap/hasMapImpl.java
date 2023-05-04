@@ -12,6 +12,7 @@ public class hasMapImpl {
         names.put(1,new Student("jaya","sekhar"));
         names.put(2, new Student("reddy","jaya"));
         names.put(3, new Student("sri","murali"));
+        names.put(4, new Student("sri","murali"));
 
         System.out.println(   names);
         System.out.println(names.values());
@@ -20,6 +21,9 @@ public class hasMapImpl {
 
 
         System.out.println("newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
+
+        System.out.println("newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
+
 
 
     }

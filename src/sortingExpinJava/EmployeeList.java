@@ -46,7 +46,7 @@ public EmployeeList (int id, String name, int age,long salary){
     }
 
     public void setSalary(long salary) {
-        this.salary = salary;
+        this.salary =  salary;
     }
 
     @Override
