@@ -15,7 +15,7 @@ public class CreateLinkedList {
         topProgrammingLanguages.add("GoLang");
 
 
-        System.out.println(">>>>>>>> ::"+topProgrammingLanguages);
+        System.out.println(">>>>>>>> :: "+topProgrammingLanguages);
 
 
         topProgrammingLanguages.add(2,"sql");
