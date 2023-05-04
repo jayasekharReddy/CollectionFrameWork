@@ -13,10 +13,15 @@ public class hasMapImpl {
         names.put(2, new Student("reddy","jaya"));
         names.put(3, new Student("sri","murali"));
 
-        System.out.println(names);
+        System.out.println(   names);
         System.out.println(names.values());
 
-        System.out.println("jayaaaaaaaaaaaaaa");
+        System.out.println("   jayaaaaaaaaaaaaaa");
+
+
+        System.out.println("newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
+
+        System.out.println("newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
 
     }
 }
