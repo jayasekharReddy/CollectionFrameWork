@@ -71,7 +71,7 @@ public class CollectionHasSet {
         evenNumbers.add(8);
         evenNumbers.add(9);
         evenNumbers.add(10);
-        boolean result = evenNumbers.remove(1);
+        boolean result =  evenNumbers.remove(1);
         System.out.println(result);
         System.out.println(evenNumbers);
 

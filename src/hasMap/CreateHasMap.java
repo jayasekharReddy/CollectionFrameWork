@@ -65,7 +65,7 @@ public class CreateHasMap {
         Iterator<Map.Entry<String,Integer>> iterator = entries.iterator();
 
         while (iterator.hasNext()){
-            Map.Entry<String,Integer> enty = iterator.next();
+            Map.Entry<String,Integer>  enty = iterator.next();
             System.out.println("key>> : " + enty.getKey()+"  value : " + enty.getValue());
 
         }
